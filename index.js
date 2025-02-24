@@ -62,9 +62,9 @@ app.get('/', async (req, res) => {
         </style>
       </head>
       <body>
+        <h1>${DESTINATION}</h1>
         <h1>ETA: ${durationText}</h1>
         <p>Distance: ${distanceText}</p>
-        <p>From: ${ORIGIN}<br>To: ${DESTINATION}</p>
       </body>
       </html>
     `;
