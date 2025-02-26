@@ -9,7 +9,7 @@ const fetch = require('node-fetch');
 //---------------------------------------------------
 // Replace these with your actual start and end addresses
 const ORIGIN = '221 Corley Mill Rd, Lexington, SC';
-const DESTINATION = '701 Whaley St, Columbia, SC';
+const DESTINATION = '1515 Main St, Columbia, SC';
 
 // Replace with your real API key from Google Cloud
 const API_KEY = 'AIzaSyDSjcIsQxjIkd9ReFTxiCcS7_JHhSMQmXY';
